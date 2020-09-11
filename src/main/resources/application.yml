@@ -1,0 +1,6 @@
+server:
+  port: 9100
+
+config:
+  file:
+    location: "application.properties"
